@@ -24,12 +24,5 @@ This project implements an "IoT-based Drowsiness Detection and Notification Syst
   - Buzzer/Speaker for alerts
 - Cloud Services:Firebase / AWS / Google Cloud (for notifications & storage)
 
-📌 Usage
-- Run the script to start detecting drowsiness.
-- Alerts will be triggered when drowsiness is detected.
-- Notifications can be configured in the settings.
-
 📩 Contact
 For any inquiries or collaborations, reach out via email: himanshideep77@gmail.com
-
-
