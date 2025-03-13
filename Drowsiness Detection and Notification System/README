@@ -1,1 +1,29 @@
 
+Drowsiness Detection and Notification System
+
+📌 Overview
+This project implements an "IoT-based Drowsiness Detection and Notification System" that helps prevent accidents due to driver fatigue. The system uses "computer vision and machine learning" to detect drowsiness in real-time and send alerts to mitigate risks.
+
+🔍 Features
+- Real-time Eye and Face Detection: Uses OpenCV and Dlib to track facial landmarks and detect closed eyes.
+- Drowsiness Detection Algorithm: Employs the Eye Aspect Ratio (EAR) method to identify drowsy states.
+- IoT Integration: Sends notifications via email, SMS, or app notifications when drowsiness is detected.
+- Live Video Streaming: Streams real-time video feed for monitoring.
+- Cloud Storage: Option to store detection logs and images in the cloud.
+- User Authentication: Secure login for system access.
+
+🛠️ Tech Stack
+- Programming Language: Python
+- Libraries & Frameworks:
+  - OpenCV (Computer Vision)
+  - Dlib (Facial Landmark Detection)
+  - TensorFlow/Keras (Optional for deep learning models)
+  - Flask (Backend API for IoT integration)
+- Hardware:
+  - Raspberry Pi (or any IoT-compatible microcontroller)
+  - USB/IR Camera
+  - Buzzer/Speaker for alerts
+- Cloud Services:Firebase / AWS / Google Cloud (for notifications & storage)
+
+📩 Contact
+For any inquiries or collaborations, reach out via email: himanshideep77@gmail.com
