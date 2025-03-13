@@ -1,1 +1,21 @@
+Smart Surveillance System
 
+🚀 This project is designed to provide real-time surveillance with "face recognition, motion detection, and alert notifications". The system integrates computer vision and mobile application development to offer a seamless security solution. 
+
+✨ Features
+-Live Video Streaming - Monitor real-time footage
+-Facial Recognition Toggle - Enable/Disable face detection
+-Alert System - Email & mobile notifications
+-Cloud Storage - Store recorded videos securely
+-User Authentication - Secure login for access
+
+📌 Technologies Used
+-Python (OpenCV, Flask, YOLOv8)
+-Android Development (Kotlin/Flutter)
+-Firebase / AWS (Cloud storage & authentication)
+-WebRTC (For real-time streaming)
+-Machine Learning Models (Haar cascades, YOLO)
+
+📞 Contact
+For any inquiries, feel free to reach out:
+📧 Email: himanshideep77@gmail.com
